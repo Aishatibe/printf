@@ -5,9 +5,8 @@
 .SH SYNOPSIS
 .B #include "main.h"
 
-.B int _printf(const char *
-.I format
-.B , ...)
+.B int _printf(const char *\fIformat\fB,...)
+
 .SH DESCRIPTION
 .B _printf()
 Prints to standard output under the control of a 
