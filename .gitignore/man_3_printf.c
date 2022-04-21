@@ -5,7 +5,9 @@
 .SH SYNOPSIS
 .B #include "main.h"
 
-.B int _printf(const char *\fIformat\fB,...)
+.B int _printf(const char *
+.I format
+.B ,...)
 
 .SH DESCRIPTION
 .B _printf()
